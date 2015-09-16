@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說四未曾有法經
+#+DATE: 2015-08-30 19:32:44.395291
+#+PROPERTY: JUAN 0
